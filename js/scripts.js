@@ -76,6 +76,7 @@ function removeItem(index)
 
 // Go to checkout page
 // Youtube video that I found useful for my checkout and validation - https://www.youtube.com/watch?v=In0nB0ABaUk&t=46s
+
 document.getElementById("checkout-btn").onclick = function () 
 {
     if (cart.length === 0) 
